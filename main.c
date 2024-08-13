@@ -3,9 +3,6 @@
 #include <stdlib.h>
 char ch;
 int a,b,s,result=0;
-// char s[50];
-// int n,m;
-// int rows=4, cols=80;
 
 void input(){
     printf("Enter the operation \n 1- to add\n 2- to sub\n 3- to mult\n 4- to divide\n 5-to percentile\n 6-to quit\n");
